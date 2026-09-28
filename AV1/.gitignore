@@ -2,7 +2,7 @@ HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
-!**/src/main/java/resources/data/candidatos/
+!**/src/main/java/resources/static/images/
 !**/src/test/**/target/
 
 ### STS ###
